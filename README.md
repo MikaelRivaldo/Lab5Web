@@ -320,3 +320,9 @@ Untuk sourcodenya bisa menggunakan dibawah ini:
 
 ![tampilan daftar menu](https://github.com/MikaelRivaldo/Lab5Web/assets/115770247/8fa489f2-dfb9-48f0-b730-9b4d98d7dcf5)
 
+---
+
+# Tugas
+
+![tugas](https://github.com/MikaelRivaldo/Lab5Web/assets/115770247/1b5b92ee-fad5-4bce-b562-3b6daba45d5e)
+
